@@ -1,0 +1,26 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+    .container {
+        max-width: 900px;
+    }
+   
+
+        .container {
+            max-width: 900px;
+        }
+        .aboutme {
+            background: url("https://s3-us-west-2.amazonaws.com/files.bradengelhardt.com/brad-bg-main.jpg")
+                no-repeat;
+            background-size: cover;
+            min-height: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+            .aboutme p {
+  color: white;
+  font-weight: 100;
+  font-size: 17.4px;
+}
